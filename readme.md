@@ -1,1 +1,1 @@
-This is an Android practiec
+This is an Android practice
